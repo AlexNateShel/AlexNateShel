@@ -1,4 +1,3 @@
-AlexNateShel.github.io
 - 👋 Hi, I’m @AlexNateShel
 - 👀 I’m interested in software development and programming
 - 🌱 I’m currently learning Python and Sjango
